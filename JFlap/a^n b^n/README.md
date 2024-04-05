@@ -1,0 +1,1 @@
+Macchina di Turing che riconosce il linguaggio a^n b^n
