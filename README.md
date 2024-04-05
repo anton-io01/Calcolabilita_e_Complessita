@@ -3,6 +3,10 @@ Questo repository è dedicato al corso di Calcolabilità e Complessità e contie
 
 ## Macchine di Turing
 
+- `a^n b^n`
+
+- `a^n b^n c^n`
+
 - Sottrazione in modulo: `f(x,y) = |x - y|`
   - Sottrazione unaria
   - Sottrazione binaria
