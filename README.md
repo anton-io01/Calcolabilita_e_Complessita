@@ -1,7 +1,7 @@
 # Calcolabilità e Complessità
 Questo repository è dedicato al corso di Calcolabilità e Complessità e contiene alcuni esempi di macchine di Turing realizzate con il software JFLAP.
 
-## Macchine di Turing
+## Macchine di Turing (a singolo nastro)
 
 - `a^n b^n`
 
