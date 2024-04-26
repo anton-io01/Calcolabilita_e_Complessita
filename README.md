@@ -7,14 +7,20 @@ Questo repository è dedicato al corso di Calcolabilità e Complessità e contie
 
 - `a^n b^n c^n`
 
-- Sottrazione in modulo: `f(x,y) = |x - y|`
-  - Sottrazione unaria
-  - Sottrazione binaria
-
 - Addizione 2 addendi: `f(x,y) = x + y`
-
-- Addizione 3 addendi: `f(x,y,z) = x + y +z`
 
 - Massimo: `f(x,y) = max(x,y)`
   - Massimo unario
   - Massimo binario
+ 
+- mm^R
+
+- Moltiplicazione unaria `f(x,y) = x * y`
+
+- Sottrazione in modulo: `f(x,y) = |x - y|`
+  - Sottrazione unaria
+  - Sottrazione binaria
+
+
+
+
