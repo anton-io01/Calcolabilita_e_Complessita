@@ -13,7 +13,7 @@ Questo repository è dedicato al corso di Calcolabilità e Complessità e contie
   - Massimo unario
   - Massimo binario
  
-- `mm^R`
+- `m m^R`
 
 - Moltiplicazione unaria `f(x,y) = x * y`
 
